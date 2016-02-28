@@ -1,6 +1,6 @@
 ###Hi, follow me  
   
-  老师说让我们试试一个git工具的同步推送功能，并写个README.md文件推送上去，我就一本正经的百度下README.md文件的具体作用有哪些，参考http://www.cnblogs.com/chenkai/archive/2012/06/20/2556047.html，看看看：   
+  老师说让我们试试一个git工具的同步推送功能，并写个README.md文件推送上去，我就一本正经的百度下README.md文件的具体作用有哪些，参考[这里](http://www.cnblogs.com/chenkai/archive/2012/06/20/2556047.html),看看看：   
   
 * 整个项目的介绍[说明创建的意图或解决问题等]  
   
